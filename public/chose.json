@@ -1,0 +1,20 @@
+[
+    {
+        "image":"https://i.ibb.co/Lg1Cbbd/growth-1-1.png",
+        "title":"Natural",
+        "describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Congue amet aenean sed enim odio."
+    },
+    {
+        "image":"https://i.ibb.co/6yCY9qC/quality-assurance-1.png",
+        "title":"Best Quality",
+        "describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Congue amet aenean sed enim odio."
+    },
+    
+    {
+        "image":"https://i.ibb.co/HpkRJyd/free-delivery-1.png",
+        "title":"Free Shipping ",
+        "describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Congue amet aenean sed enim odio."
+    }
+    
+    
+]
